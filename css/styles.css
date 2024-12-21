@@ -97,7 +97,7 @@ body {
   z-index: 50;
 }
 .water-container {
-  background-image: url(/images/waterNew.png);
+  background: url(../images/waterNew.png);
   background-size: auto 100%; /* Ensure it covers the container */
   background-position: left bottom;
   background-repeat: repeat-x;
@@ -166,7 +166,7 @@ body {
   width: 100%;
   height: 100%;
 
-  background: url(/images/bg.png);
+  background: url(../images/bg.png);
   background-repeat: repeat-x;
   background-size: auto 125%;
 
@@ -274,7 +274,7 @@ body {
   display: flex;
   flex-direction: column;
 
-  background: url(/images/sign.png);
+  background: url(../images/sign.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
